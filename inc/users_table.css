@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ #myTable_wrapper{
+    max-width: 90%;
+    margin: auto;
+}
